@@ -1,6 +1,6 @@
 import socket
 
-
+discord="dao026"#bana burdan ulaşabilirsiniz
 hedef_ip = input("Hedef İp: ")
 baslangic_port = 1
 son_port = 1024 
